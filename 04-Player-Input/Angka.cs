@@ -30,7 +30,7 @@ public class Angka : MonoBehaviour
         {
             Debug.Log("Tombol Panah Bawah Telah Ditekan");
         }
-        if (Input.GetKeyDown(KeyCode.Return)) ;
+        if (Input.GetKeyDown(KeyCode.Return))
         {
             Debug.Log("Tombol Enter Telah Ditekan");
         }
