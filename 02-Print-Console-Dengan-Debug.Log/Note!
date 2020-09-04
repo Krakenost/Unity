@@ -1,1 +1,2 @@
-Disini saya memberikan sebuah tutorial bagaimana cara kita untuk mengeprint suatu nilai atau dalam tutorial disini kita adalah Teks.
+Disini saya memberikan sebuah tutorial bagaimana cara kita untuk mengeprint suatu nilai atau character ke dalam console di Unity.
+File Angka.cs merupakan file kode C# yang berisi script untuk menampilkan nilai/character di console. Kalau mau kalian bisa copy/download script tersebut lalu paste di file .cs yang ada pada project kalian.
